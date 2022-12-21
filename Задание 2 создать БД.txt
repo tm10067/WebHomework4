@@ -1,4 +1,4 @@
-
+п»ї
 CREATE TABLE STUDENTS (
   
 	Id INTEGER PRIMARY KEY AUTO_INCREMENT,
@@ -11,12 +11,12 @@ CREATE TABLE STUDENTS (
 
 );
 
-INSERT INTO STUDENTS VALUES (NULL, 'Иван', 18, 'пр.Космонавтов, д.5, кв 16');
+INSERT INTO STUDENTS VALUES (NULL, 'РРІР°РЅ', 18, 'РїСЂ.РљРѕСЃРјРѕРЅР°РІС‚РѕРІ, Рґ.5, РєРІ 16');
 
-INSERT INTO STUDENTS VALUES (NULL, 'Петр', 22, 'ул.Ленсвета, д.14, к.2, кв 4');
+INSERT INTO STUDENTS VALUES (NULL, 'РџРµС‚СЂ', 22, 'СѓР».Р›РµРЅСЃРІРµС‚Р°, Рґ.14, Рє.2, РєРІ 4');
 
-INSERT INTO STUDENTS VALUES (NULL, 'Анна', 35, 'Ленинский пр., д.175, кв 23');
+INSERT INTO STUDENTS VALUES (NULL, 'РђРЅРЅР°', 35, 'Р›РµРЅРёРЅСЃРєРёР№ РїСЂ., Рґ.175, РєРІ 23');
 
-INSERT INTO STUDENTS VALUES (NULL, 'Сергей', 24, 'ул.Десантников, д.23, кв 7');
+INSERT INTO STUDENTS VALUES (NULL, 'РЎРµСЂРіРµР№', 24, 'СѓР».Р”РµСЃР°РЅС‚РЅРёРєРѕРІ, Рґ.23, РєРІ 7');
 
 SELECT * FROM STUDENTS
